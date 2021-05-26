@@ -37,3 +37,9 @@ def minm(f,interval,epsilon):
             xk = [xk[1], xk[0]]
         dif = xk[1] - xk[0]
     return xk
+
+f = x**2-2*x+1
+interval = [0,2]
+epsilon = 0.0001
+
+print(minm(f,interval,epsilon))
