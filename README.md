@@ -12,6 +12,3 @@ Inside these subdirectories are the codes and a readme file to describe the algo
 
 Pull requests and Issues are welcome. 
 Discussions will also be very much appreciated. 
-
-
-All results of this library are open for public use. 
